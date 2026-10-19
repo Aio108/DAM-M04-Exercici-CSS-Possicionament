@@ -1,3 +1,19 @@
 #principal{
     background: linear-gradient(120deg, rgb(232, 238, 242), rgb(208, 218, 226));
 }
+
+#titolPrincipal{
+    text-align: center;
+    margin-left: 20px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgb(20, 0, 39);
+}
+
+.subtitol{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'italic', Courier, monospace;
+}
