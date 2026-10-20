@@ -17,3 +17,8 @@
     color: rgb(0, 0, 0);
     font-family: 'italic', Courier, monospace;
 }
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
