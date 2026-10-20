@@ -22,3 +22,20 @@
     margin: 0 auto;
     padding: 0 20px;
 }
+
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: rgba(188, 233, 255, 0.7);
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.boto_hero {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    font-size: 18px;
+    border-radius: 6px;
+}
