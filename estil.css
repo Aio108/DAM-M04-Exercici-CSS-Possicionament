@@ -109,3 +109,21 @@ body {
     text-align: center;
     flex: 1;
 }
+.seccion_diferencies {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.texto_diferencies {
+    flex: 1;
+}
+
+.imagen_derecha {
+    width: 300px;
+    max-width: 40%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
