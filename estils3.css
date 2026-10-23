@@ -1,0 +1,33 @@
+#principal{
+    background: linear-gradient(120deg, rgb(255,255,255), rgb(162, 195, 255));
+}
+
+.container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .campo {
+            margin-bottom: 10px;
+        }
+
+        .campo label, .campo input, .campo textarea {
+            display: block;
+            width: 100%;
+        }
+
+        .mapa {
+            background-color: #ccc;
+            height: 150px;
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
